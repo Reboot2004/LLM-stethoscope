@@ -1,0 +1,9 @@
+Flask==2.0.3
+numpy==1.21.2
+librosa==0.8.1
+Pillow==8.3.2
+torch==1.9.0
+torchaudio==0.9.0
+keras==2.6.0
+matplotlib==3.4.3
+torchvision==0.10.0

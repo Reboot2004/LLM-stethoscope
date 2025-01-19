@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842969704959",
+    "project_id": "stethoscope-1f2ae",
+    "storage_bucket": "stethoscope-1f2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842969704959:android:ce2cd28a7dd24e2cfd5fca",
+        "android_client_info": {
+          "package_name": "com.example.stehot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArep4RHXMuBhX4MyE-2iPr6HlQen6XGCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842969704959:android:d3bb164b95203f14fd5fca",
+        "android_client_info": {
+          "package_name": "com.example.stetho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArep4RHXMuBhX4MyE-2iPr6HlQen6XGCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
